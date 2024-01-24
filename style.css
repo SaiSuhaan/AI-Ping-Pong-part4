@@ -1,0 +1,37 @@
+.heading
+{
+    width: 100%;
+    text-align: left;
+}
+
+.heading h3
+{
+    display: inline;
+}
+
+.heading button
+{
+    float: right;
+}
+
+#start, #status
+{
+   font-size: 22px;     
+}
+
+#restart
+{
+    text-align: center;
+}
+
+canvas
+{
+    background-color: white;
+    box-shadow: 5px 5px 5px solid grey;
+}
+
+.instruction_image
+{
+  display: inline-block;
+  width: 100%; 
+}
